@@ -1,5 +1,6 @@
 # Fractals-In-Haskell
 Mandelbrot and Julia Sets using OpenGL
+
 First program in Haskell! Yay for Haskell!
 
 #Usage
