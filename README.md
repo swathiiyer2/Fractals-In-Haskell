@@ -2,15 +2,15 @@
 Mandelbrot and Julia Sets using OpenGL
 
 First program in Haskell! Yay for Haskell!
+Version II code reduces overhead.
 
 ##Usage
 Compile using
     
-    ghc --make Mandelbrot.hs
-    ghc --make Julia.hs
+    ghc --make <file-name>.hs
 
 Run in terminal
     
-    ./Mandelbrot.o
-    ./Julia.o
+    ./<file-name>.o
+
     
